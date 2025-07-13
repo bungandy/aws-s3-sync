@@ -1,0 +1,8 @@
+{
+  "access_key": "YOUR_AWS_ACCESS_KEY",
+  "secret_key": "YOUR_AWS_SECRET_KEY",
+  "region": "ap-southeast-1",
+  "bucket": "your-bucket-name",
+  "prefix": "optional/prefix/path", 
+  "local_dir": "./downloaded"
+}
